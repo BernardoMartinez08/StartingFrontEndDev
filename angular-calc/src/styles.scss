@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+html, body{
+    /*padding: 0;*/
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    background-color: #413f42;
+    font-family: "Share Tech Mono", "Segoe UI", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+}
